@@ -47,6 +47,4 @@ The system provides a list of top 10 movie recommendations for each user in the 
 - Enhance the user interface for easier interaction
 - Incorporate more features like user demographics or movie metadata
 
-## License
 
-[Specify your license here]
